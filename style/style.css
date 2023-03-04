@@ -10,8 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: url("/images/04.jpg") no-repeat;
-  background-size: cover;
+  background: black;
 }
 
 form {
