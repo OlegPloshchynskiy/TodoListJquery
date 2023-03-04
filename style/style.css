@@ -97,6 +97,8 @@ form {
 .delete {
   width: 30px;
   height: 25px;
+  border: none;
+  background: none;
 }
 
 /* width */
